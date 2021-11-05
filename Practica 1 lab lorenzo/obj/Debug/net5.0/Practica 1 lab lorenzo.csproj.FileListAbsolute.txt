@@ -1,0 +1,16 @@
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\bin\Debug\net5.0\Practica 1 lab lorenzo.exe
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\bin\Debug\net5.0\Practica 1 lab lorenzo.deps.json
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\bin\Debug\net5.0\Practica 1 lab lorenzo.runtimeconfig.json
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\bin\Debug\net5.0\Practica 1 lab lorenzo.runtimeconfig.dev.json
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\bin\Debug\net5.0\Practica 1 lab lorenzo.dll
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\bin\Debug\net5.0\ref\Practica 1 lab lorenzo.dll
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\bin\Debug\net5.0\Practica 1 lab lorenzo.pdb
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.csproj.AssemblyReference.cache
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.AssemblyInfoInputs.cache
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.AssemblyInfo.cs
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.dll
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\ref\Practica 1 lab lorenzo.dll
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.pdb
+C:\Users\pjgon\source\repos\Practica 1 lab lorenzo\obj\Debug\net5.0\Practica 1 lab lorenzo.genruntimeconfig.cache
